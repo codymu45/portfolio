@@ -1,34 +1,44 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "link": ""
+    "name": "Password Generator",
+    "image": "https://i.imgur.com/XBn9V3B.jpg",
+    "ghLink": "https://github.com/codymu45/passwordgenerator",
+    "dLink": "https://codymu45.github.io/passwordgenerator/"
   },
   {
     "id": 2,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "link": ""
-  },{
+    "name": "Quiz",
+    "image": "https://i.imgur.com/N2xrO6Q.jpg",
+    "ghLink": "https://github.com/codymu45/quiz",
+    "dLink": "https://codymu45.github.io/quiz/"
+  },
+  {
     "id": 3,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "link": ""
-  },{
+    "name": "Daily Planner",
+    "image": "https://i.imgur.com/QByunce.jpg",
+    "ghLink": "https://github.com/codymu45/dailyPlanner",
+    "dLink": "https://codymu45.github.io/dailyPlanner/"
+  },
+  {
     "id": 4,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "link": ""
-  },{
+    "name": "Weather Dashboard",
+    "image": "https://i.imgur.com/yB3wJx0.jpg",
+    "ghLink": "https://github.com/codymu45/weather_app",
+    "dLink": "https://codymu45.github.io/weather_app/"
+  },
+  {
     "id": 5,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "link": ""
-  },{
+    "name": "Note Taker",
+    "image": "https://i.imgur.com/htI1G4W.jpg",
+    "ghLink": "https://github.com/codymu45/noteTaker",
+    "dLink": "https://mullennotetaker.herokuapp.com/"
+  },
+  {
     "id": 6,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
-    "link": ""
-  }
+    "name": "Work in Progress",
+    "image": "https://i.imgur.com/7vpcUne.jpg",
+    "ghLink": "https://github.com/codymu45/workInProgress",
+    "dLink": "https://mecc-project2.herokuapp.com/"
+  }   
 ]
