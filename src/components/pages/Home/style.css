@@ -1,4 +1,84 @@
-body {
-  background-color: rgb(0, 18, 29);
+*{
+  box-sizing: border-box;
 }
 
+body {
+  width:100vw;
+  margin: 0;
+  background-color: rgb(0, 18, 29);
+  overflow-x: hidden;
+}
+
+/* .videoOverlay{
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  background: rgb(10, 169, 218);
+  z-index: 2;
+  opacity: 0.85;
+} */
+
+.container{
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.headerDiv{
+  width: 50%;
+  margin-top: 10vh;
+  z-index: 3;
+  color: rgb(0, 80, 134);
+  text-align: center;
+  align-items: center;
+  align-self: center;
+  background-color: black;
+  opacity: 0.95;
+  padding: 20px;
+  border-style: solid;
+  border-color: rgb(99, 99, 99);
+  border-width: 3px;
+  border-radius: 10px;
+}
+
+.headText{
+  font-size: 3rem;
+}
+
+.videoDiv{
+  margin: 0;
+  width: 100%;
+  height: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.videoDiv video{
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+#videoBG {
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  top: 40px;
+  left: 0;
+  z-index: 1;
+}
+
+@media (min-aspect-ratio: 16/9) {
+  #videoBG {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  #videoBG {
+    width: auto;
+    height: 100%;
+  }
+}
