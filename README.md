@@ -1,4 +1,6 @@
 # Portfolio
+
+    [Link to my Portfolio](https://codymu45.github.io/portfolio/)
   
   ## Description
   
