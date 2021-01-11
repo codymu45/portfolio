@@ -1,6 +1,6 @@
 # Portfolio
 
-    [Link to my Portfolio](https://codymu45.github.io/portfolio/)
+  [Link to my Portfolio](https://www.codymu45.github.io/portfolio/)
   
   ## Description
   
