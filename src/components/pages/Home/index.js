@@ -8,7 +8,7 @@ function Home() {
     <div className='container'>
       <div className='headerDiv'>
         <h1 className='headText'>Hello, I'm Cody Mullen.</h1>
-        <h1 className='headText'>I am a full stack web developer.</h1>
+        <h1 className='headText'>Full stack web developer.</h1>
       </div>
       <div className='videoOverlay'></div>
       <div className='videoDiv'>

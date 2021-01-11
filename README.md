@@ -1,29 +1,27 @@
 # Portfolio
   
-  # Description
+  ## Description
   
   A simple portfolio showcasing my completed projects, a short bio, and contact page.
   
-  # Table of Contents 
+  ## Table of Contents 
   
   * [Usage](#Use)
   
   * [Contributing](#Contributors)
   
   * [Questions](#questions)
+
+    ![Screenshot](./src/components/images/screenshot.jpg "Portfolio")
   
-  # Installs
-  
-  The following necessary dependencies must be installed to run the application properly: 
-  
-  # Uses
+  ## Uses
   
   ​This application is uses HTML / CSS / React / JS 
   
-  # Contributors
+  ## Contributors
   
   ​Contributors: Cody Mullen
   
-  # Questions
+  ## Questions
   
   If you have any questions about my work or portfolio, contact me directly at codymu45@gmail.com.
